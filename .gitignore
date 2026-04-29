@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Zenodo data cache
+data/
+
+# Generated figures
+STM_9K_326.svg
+STM_300K_905.svg
+img072_topo.svg
+img905_topo.svg
+img072_fft.svg
+img905_fft.svg
+rdf.svg
+rdf_bi-near_partial.svg
+rdf_bi-far_partial.svg
