@@ -1,0 +1,7 @@
+gwyfile
+holoviews
+matplotlib
+numpy
+rhkpy
+scienceplots
+xarray
